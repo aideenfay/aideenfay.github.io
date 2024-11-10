@@ -22,7 +22,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-aideenfay-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
     </a>
     <a href="https://msrc.microsoft.com/blog/authors/aideenfay/">
-      <img src="https://img.shields.io/badge/MSRC-Blog-blue?style=flat-square&logo=microsoft" alt="MSRC Blog"/>
+      <img src="https://img.shields.io/badge/MSRC-Blog-blue?style=flat-square&logo=microsoft" alt="MSRC Blog"/>    
     </a>
   </p>
 </div>
