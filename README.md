@@ -29,13 +29,13 @@
   <details>
     <summary>2024</summary>
     <ul>
-      <li>November: I'm attending the <a href="https://sites.google.com/view/londoxtda/home">London-Oxford Topological Data Analysis Seminar</a> organized by my UDA lecturer [Dr.Anthea Monod](https://sites.google.com/view/antheamonod/home?authuser=0).</li>
+      <li>November: I'm attending the <a href="https://sites.google.com/view/londoxtda/home">London-Oxford Topological Data Analysis Seminar</a> organized by my UDA lecturer <a href="https://sites.google.com/view/antheamonod/home?authuser=0">Dr.Anthea Monod</a>.</li>
       <li>November: I joined the <a href="https://girlswhoml.com/">GirlsWhoML</a> initiative to help create course content and teach for the AI security workshop to UK undergraduate students.</li>
       <li>October: I served as a Program Committee Member for <a href="https://safegenaiworkshop.github.io/">Safe Generative AI workshop @ NeurIPs 2024</a>.</li>
       <li>September: My team at MSRC are launching the <a href="https://microsoft.github.io/llmail-inject/">Adaptive Prompt Injection Challenge</a> as part of SaTML 2025.</li>
       <li>July: I served as a Program Committee Member for <a href="https://aisec.cc/#committee">18th ACM Workshop on Artificial Intelligence and Security (AISec 2024)</a> where I was also voted Top Reviewer!</li>
       <li>June: We released the <a href="https://github.com/microsoft/TaskTracker">TaskTracker</a> dataset and codebase for behavioral drift detection.</li>
-      <li>June: My co-author ([Sahar](https://s-abdelnabi.github.io/)) and I published our new research <a href="https://arxiv.org/abs/2406.00799">paper</a> "Are You Still On Track? Decting LLM Task Drift with LLM activations".</li>
+      <li>June: My co-author <a href="https://s-abdelnabi.github.io/">Sahar</a> and I published our new research <a href="https://arxiv.org/abs/2406.00799">paper</a> "Are You Still On Track? Decting LLM Task Drift with LLM activations".</li>
       <li>February: I joined the Microsoft Security Response Centre at Microsoft Research Cambridge as a Senior AI Security Researcher.</li>
     </ul>
   </details>
