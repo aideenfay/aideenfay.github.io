@@ -32,6 +32,7 @@
   <details>
     <summary>2024</summary>
     <ul>
+      <li>December: We launched our Adaptive Prompt Injection challenge with a $10,000 prize pool! Check the <a href="https://llmailinject.azurewebsites.net/">website</a> and <a href="https://msrc.microsoft.com/blog/2024/12/announcing-the-adaptive-prompt-injection-challenge-llmail-inject/">blog</a> to learn more.</li>
       <li>November: I'm attending the <a href="https://sites.google.com/view/londoxtda/home">London-Oxford Topological Data Analysis Seminar</a> organized by my UDA lecturer <a href="https://sites.google.com/view/antheamonod/home?authuser=0">Dr.Anthea Monod</a>.</li>
       <li>November: I joined the <a href="https://girlswhoml.com/">GirlsWhoML</a> initiative to help create course content and teach the AI security workshop to UK undergraduate students.</li>
       <li>October: I served as a Program Committee Member for <a href="https://safegenaiworkshop.github.io/">Safe Generative AI workshop @ NeurIPs 2024</a>.</li>
