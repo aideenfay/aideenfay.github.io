@@ -70,7 +70,7 @@
       <td width="75%" valign="top">
         <strong>Are you still on track!? Catching LLM Task Drift with Activations</strong><br/>
         <em>Sahar Abdelnabi, Aideen Fay, Giovanni Cherubin, Ahmed Salem, Mario Fritz, Andrew Paverd</em><br/>
-        Submitted to SaTML 2025<br/>
+        Secure and Trustworthy Machine Learning Conference (SaTML) 2025<br/>
         <a href="https://arxiv.org/abs/2406.00799">Paper</a> / 
         <a href="https://x.com/AideenFay/status/1801690383694372996">Twitter</a>
       </td>
