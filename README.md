@@ -30,6 +30,10 @@
   <h2>New and Upcoming</h2>
   
   <details>
+    <summary>2025</summary>
+    <ul>
+          <li>January: I'll be teaching the 2hr WomenWhoML _AI security and interpretation_ workshop at Entrpreneur First on Feb 18th. Come join us! </li>
+    <ul>
     <summary>2024</summary>
     <ul>
       <li>December: We launched our Adaptive Prompt Injection challenge with a $10,000 prize pool! Check the <a href="https://llmailinject.azurewebsites.net/">website</a> and <a href="https://msrc.microsoft.com/blog/2024/12/announcing-the-adaptive-prompt-injection-challenge-llmail-inject/">blog</a> to learn more.</li>
