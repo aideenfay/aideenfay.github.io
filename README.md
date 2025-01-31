@@ -32,9 +32,10 @@
   <details>
     <summary>2025</summary>
     <ul>
-          <li>January: I'll be teaching the 2 hr WomenWhoML "AI security and interpretability" workshop at Entrpreneur First on Feb 18th. Come join us! </li>
+        <li>January: I'll be teaching the 2 hr WomenWhoML "AI security and interpretability" workshop at Entrpreneur First on Feb 18th. Come join us! </li>
     <ul>
   </details>
+      
   <details>
     <summary>2024</summary>
     <ul>
