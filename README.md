@@ -1,7 +1,7 @@
 <html>
 <body>
   <div>
-    <p>Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-time student in the Department of Mathematics at Imperial College London. I'm passionate about artificial intelligence, cognitive neuroscience, bayesian inference, and applying modern mathematics to better interpret and build more principled and dynamic learning systems. Feel free to reach out if you want to discuss ideas at the intersection of these areas.</p>
+    <p>Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-time student in the Department of Mathematics at Imperial College London. I'm passionate about artificial intelligence, cognitive neuroscience, bayesian inference, and applying modern mathematics to better interpret and build more principled and dynamic learning systems. Feel free to reach out if you want to discuss ideas at the intersection of these areas. I also love languages (currently learning Russian) and spent time at BAE Systems and the European Southern Observatory. My research taste is eclectic but finding connections between seemingly unrelated disciplines and concepts is where I have the most fun. </p>
   </div>
 
 <div align="center">
