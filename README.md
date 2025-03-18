@@ -59,7 +59,7 @@
   <details>
     <summary>2023</summary>
     <ul>
-      <li>October: I presented at the United Nations Internet Governance Forum in Kyoto, Japan on "Co-operative AI: Multi-Agent AI Safety and International Co-Operation".</li>
+      <li>October: I presented at the United Nations Internet Governance Forum in Kyoto, Japan.</li>
       <li>October: I presented at Microsoft BlueHat in Redmond, Washington - <a href="https://www.youtube.com/watch?v=J621cAsKzZk">Breach Path Busters: Using graphs and AI to decode cyber threats</a>.</li>
       <li>October: I started my part-time MSc in the Department of Mathematics at Imperial College London.</li>
       <li>February: I was promoted to Senior Security Researcher on the Microsoft Threat Hunting team.</li>
