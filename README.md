@@ -32,6 +32,7 @@
   <details>
     <summary>2025</summary>
     <ul>
+        <li>March: Our team launched Phase 2 of the <a href="https://llmailinject.azurewebsites.net/">LLMail-Inject competition</a> with an extra $6k in prizes and updated defenses, including a conformal-prediction-based blocklist and updated TaskTrackers trained on more expressive activation signals.</li>
         <li>February: I was awarded the <a href="https://www.imperial.ac.uk/mathematics/postgraduate/msc/womens-scholarship/">MSc Marjorie McDermott Scholarship</a> by the Imperial College London Department of Mathematics. </li>
         <li>January: I'll be teaching the 2 hr WomenWhoML "AI security and interpretability" workshop at Entrpreneur First on Feb 18th. Come join us! </li>
     </ul>
